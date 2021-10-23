@@ -1,0 +1,4 @@
+# Extesions to be excluded:
+*.exe
+*.out
+*.o
